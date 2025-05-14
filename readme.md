@@ -1,0 +1,2 @@
+# Automation-Logger
+Automation Logger is a Python-based tool  that provides a simple graphical interface to automate sending messages to any application(Whatsapp, Instagram, X etc). It allows users to send multiple messages (more than 100) in a short time. It can be useful for bombing messages.The tool is cross-platform (Windows, macOS, Linux) and is ideal for safe, responsible automation tasks where repeated text input is needed.
