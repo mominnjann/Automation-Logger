@@ -54,6 +54,10 @@ Automation Logger is a simple Python tool that uses a GUI (built with Tkinter) t
 - Some applications may block automated input for security reasons.
 - Always test in a safe environment before using in critical applications.
 
+## License
+
+This project is licensed under the [MIT License](./License.md).
+
 ## File Structure
 
 ```
@@ -61,6 +65,7 @@ gui.py           # Main GUI application
 main.py          # Simple script version (no GUI)
 README.md        # This file
 requirements.txt # Python dependencies
+License.md       # License information
 ```
 
 ---
